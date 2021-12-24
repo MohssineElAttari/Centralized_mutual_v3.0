@@ -1,0 +1,4 @@
+--patch-module
+com.example.mutuelle_centralisee_v2=_
+--add-reads
+com.example.mutuelle_centralisee_v2=ALL-UNNAMED
